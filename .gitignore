@@ -1,0 +1,23 @@
+# Build directories and CMake artifacts
+build/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp/
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Runtime / local data
+data/
+
+# Logs
+*.log
+
+# Executables / binaries
+*.out
+*.exe
+*.app
